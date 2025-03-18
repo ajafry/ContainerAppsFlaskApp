@@ -1,0 +1,5 @@
+Flask
+dotenv
+gunicorn
+requests
+azure.monitor.opentelemetry

@@ -1,0 +1,14 @@
+{
+    "rankings": [
+      {"rank": 1, "name": "Jannik Sinner", "points": 11330, "age": 23},
+      {"rank": 2, "name": "Alexander Zverev", "points": 8135, "age": 27},
+      {"rank": 3, "name": "Carlos Alcaraz", "points": 7510, "age": 21},
+      {"rank": 4, "name": "Taylor Fritz", "points": 4900, "age": 27},
+      {"rank": 5, "name": "Casper Ruud", "points": 4045, "age": 26},
+      {"rank": 6, "name": "Daniil Medvedev", "points": 3930, "age": 29},
+      {"rank": 7, "name": "Novak Djokovic", "points": 3900, "age": 37},
+      {"rank": 8, "name": "Andrey Rublev", "points": 3480, "age": 27},
+      {"rank": 9, "name": "Stefanos Tsitsipas", "points": 3405, "age": 26},
+      {"rank": 10, "name": "Alex de Minaur", "points": 3335, "age": 26}
+    ]
+  }

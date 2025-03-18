@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block title %}
+404 - Page Not Found
+{% endblock %}
+{% block content %}
+<div class="text-center">
+    <h1 class="display-1 fw-bold text-danger">404</h1>
+    <p class="fs-3"><span class="text-danger">Oops!</span> Page not found.</p>
+    <p class="lead">The page you are looking for <span class="bg-warning text-dark">{{requested_page}}</span> does not exist or has been moved.</p>
+</div>
+{% endblock %}
